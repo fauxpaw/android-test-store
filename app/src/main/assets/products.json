@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Orange",
+      "id" : "ora6",
+      "description" : "Sour goodness.",
+      "label" : "Fruit",
+      "price": "5.99",
+      "count": 0
+    },
+    {
+      "name": "Apple",
+      "id" : "app5",
+      "description" : "One of these a day keeps the doctor away.",
+      "label" : "Fruit",
+      "price": "3.99",
+      "count": 0
+    },
+    {
+      "name": "Banana",
+      "id" : "ban7",
+      "description" : "High in potassium.",
+      "label" : "Fruit",
+      "price": "4.99",
+      "count": 0
+    }
+  ]
+}
